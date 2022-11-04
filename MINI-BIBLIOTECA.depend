@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651143841 source:g:\facultate\an 1\semestrul 2\algoritmi fundamentali\proiect-cosulea bianca\mini-biblioteca\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string.h>
+
